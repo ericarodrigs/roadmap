@@ -12,6 +12,7 @@
 
 ## ✅ Concluídos
 
+- **Alura** - Flutter: Streams de programação reativa com BLoC [🔗 Curso](https://www.alura.com.br/curso-online-flutter-bloc) | 📅 04/2023
 - **Alura** - Formação Flutter | [🔗 Curso](https://cursos.alura.com.br/formacao-flutter) | 📅 04/2023 
     - [x] Widgets, Stateless, Stateful, Imagens e Animações
     - [x] Controller, navegação e estados
