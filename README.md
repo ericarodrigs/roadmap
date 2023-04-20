@@ -2,7 +2,7 @@
 
 ## 📑 Estudando
 
-- **Alura** - Flutter: implementando testes de integração | [🔗 Curso](https://cursos.alura.com.br/course/flutter-implementando-testes-integracao)
+- **Alura** - Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-crashlytics-relatorios-tempo-real)
 
 ---
 
@@ -11,6 +11,8 @@
 - **Raro Academy** - Projeto Final - Raro Video Wall | 📅 09/2022 | [📦 Repositório](https://github.com/ericarodrigs/academy-projeto-final)
 
 ## ✅ Concluídos
+
+- **Alura** - Flutter: implementando testes de integração | [🔗 Curso](https://cursos.alura.com.br/course/flutter-implementando-testes-integracao)  | 📅 04/2023
 
 - **Alura** - Flutter: Streams de programação reativa com BLoC [🔗 Curso](https://www.alura.com.br/curso-online-flutter-bloc) | 📅 04/2023
 - **Alura** - Formação Flutter | [🔗 Curso](https://cursos.alura.com.br/formacao-flutter) | 📅 04/2023 
@@ -51,7 +53,6 @@
 
 ## 🎯 Próximos estudos
 
-- **Alura** - Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-crashlytics-relatorios-tempo-real)
 - **Alura** - Flutter com Firebase: autenticando usuários com Authentication | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-autenticando-usuarios-authenticator)
 - **Alura** - Flutter: Push Notifications com Firebase Cloud Messaging | [🔗 Curso](https://cursos.alura.com.br/course/flutter-push-notifications-firebase-cloud-messaging)
 - **Alura** - Flutter i18n: entenda abordagens de internacionalização | [🔗 Curso](https://cursos.alura.com.br/course/flutter-i18n-internacionalizacao)
