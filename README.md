@@ -2,7 +2,7 @@
 
 ## 📑 Estudando
 
-- **Alura** - Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-crashlytics-relatorios-tempo-real)
+- **Alura** - Flutter com Firebase: autenticando usuários com Authentication | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-autenticando-usuarios-authenticator)
 
 ---
 
@@ -12,6 +12,7 @@
 
 ## ✅ Concluídos
 
+- **Alura** - Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-crashlytics-relatorios-tempo-real) | 📅 05/2023
 - **Alura** - Flutter: implementando testes de integração | [🔗 Curso](https://cursos.alura.com.br/course/flutter-implementando-testes-integracao)  | 📅 04/2023
 
 - **Alura** - Flutter: Streams de programação reativa com BLoC [🔗 Curso](https://www.alura.com.br/curso-online-flutter-bloc) | 📅 04/2023
@@ -53,7 +54,6 @@
 
 ## 🎯 Próximos estudos
 
-- **Alura** - Flutter com Firebase: autenticando usuários com Authentication | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-autenticando-usuarios-authenticator)
 - **Alura** - Flutter: Push Notifications com Firebase Cloud Messaging | [🔗 Curso](https://cursos.alura.com.br/course/flutter-push-notifications-firebase-cloud-messaging)
 - **Alura** - Flutter i18n: entenda abordagens de internacionalização | [🔗 Curso](https://cursos.alura.com.br/course/flutter-i18n-internacionalizacao)
 - **Alura** - Formação Flutter com Firebase | [🔗 Curso](https://cursos.alura.com.br/formacao-flutter-firebase)
