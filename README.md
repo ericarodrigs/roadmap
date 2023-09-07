@@ -2,9 +2,7 @@
 
 ## 📑 Estudando
 
-- **Alura** - Formação Flutter com Firebase | [🔗 Curso](https://cursos.alura.com.br/formacao-flutter-firebase)
-    - [x] Implementando banco de dados online com Cloud Firestore
-    - [ ] Evoluindo a aplicação com o Cloud Firestore
+- **Alura** - Flutter: Push Notifications com Firebase Cloud Messaging | [🔗 Curso](https://cursos.alura.com.br/course/flutter-push-notifications-firebase-cloud-messaging)
 
 ---
 
@@ -14,7 +12,10 @@
 
 ## ✅ Concluídos
 
-- **Alura** - Flutter com Firebase: autenticando usuários com Authentication | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-autenticando-usuarios-authenticator) | 📅 07/2023
+- **Alura** - Formação Flutter com Firebase | [🔗 Curso](https://cursos.alura.com.br/formacao-flutter-firebase) | 📅 09/2023 | [📦 Repositório](https://github.com/ericarodrigs/firebase_firestore)
+    - [x] Implementando banco de dados online com Cloud Firestore
+    - [x] Evoluindo a aplicação com o Cloud Firestore
+- **Alura** - Flutter com Firebase: autenticando usuários com Authentication | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-autenticando-usuarios-authenticator) | 📅 07/2023 | [📦 Repositório](https://github.com/ericarodrigs/firebase_authentication)
 - **Alura** - Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real | [🔗 Curso](https://cursos.alura.com.br/course/flutter-firebase-crashlytics-relatorios-tempo-real) | 📅 05/2023
 - **Alura** - Flutter: implementando testes de integração | [🔗 Curso](https://cursos.alura.com.br/course/flutter-implementando-testes-integracao)  | 📅 04/2023
 
